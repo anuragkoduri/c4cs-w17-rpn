@@ -36,11 +36,11 @@ def main():
 			print colored(val, 'red')
 		elif val == '-':
 			print colored(val, 'blue')
-		elif val == '-':
+		elif val == '*':
 			print colored(val, 'yellow')
-		elif val == '-':
+		elif val == '/':
 			print colored(val, 'green')
-		elif val == '-':
+		elif val == '*':
 			print colored(val, 'orange')
 		else:
 			print val
