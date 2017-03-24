@@ -4,5 +4,4 @@ python:
 install:
 - pip install coveralls
 script: 
-  python3 -m unittests
-  run unittests
+  make test
