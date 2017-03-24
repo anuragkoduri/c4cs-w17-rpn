@@ -44,7 +44,7 @@ def main():
 			print(colored(val, 'orange'))
 		else:
 			print(val)
-		result = calculate(val
+		result = calculate(val)
 		print("Result:", result)
 
 if __name__ == '__main__':
